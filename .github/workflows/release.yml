@@ -16,7 +16,7 @@ env:
 jobs:
 
   ci_wf:
-    uses: AsamK/signal-cli/.github/workflows/ci.yml@master
+    uses: chashguru/signal-cli/.github/workflows/ci.yml@master
     # ${{ github.repository }} not accepted here
 
   lib_to_jar:
