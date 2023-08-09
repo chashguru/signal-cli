@@ -1,5 +1,4 @@
 name: signal-cli CI
-
 on:
   push:
     branches:
